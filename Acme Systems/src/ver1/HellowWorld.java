@@ -16,6 +16,10 @@ public class HellowWorld {
 		String Msg = "What For?!";
 		System.out.println(Msg);
 	}
+	public static void gottaGo() {
+		String Msg = "Gotta go!";
+		System.out.println(Msg);
+	}
 
 
 }
